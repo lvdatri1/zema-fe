@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zema-fe/static/css/main.7cecca9d.chunk.css",
-    "main.js": "/zema-fe/static/js/main.22f4afc0.chunk.js",
-    "main.js.map": "/zema-fe/static/js/main.22f4afc0.chunk.js.map",
+    "main.js": "/zema-fe/static/js/main.2fba803d.chunk.js",
+    "main.js.map": "/zema-fe/static/js/main.2fba803d.chunk.js.map",
     "runtime-main.js": "/zema-fe/static/js/runtime-main.60c8e77d.js",
     "runtime-main.js.map": "/zema-fe/static/js/runtime-main.60c8e77d.js.map",
     "static/js/2.91a31370.chunk.js": "/zema-fe/static/js/2.91a31370.chunk.js",
     "static/js/2.91a31370.chunk.js.map": "/zema-fe/static/js/2.91a31370.chunk.js.map",
     "index.html": "/zema-fe/index.html",
-    "precache-manifest.1acdd118289b9d2b79ca3acaa1f2ded5.js": "/zema-fe/precache-manifest.1acdd118289b9d2b79ca3acaa1f2ded5.js",
+    "precache-manifest.9516ed4105b92379b5d7d7eaa9c302f3.js": "/zema-fe/precache-manifest.9516ed4105b92379b5d7d7eaa9c302f3.js",
     "service-worker.js": "/zema-fe/service-worker.js",
     "static/css/main.7cecca9d.chunk.css.map": "/zema-fe/static/css/main.7cecca9d.chunk.css.map",
     "static/js/2.91a31370.chunk.js.LICENSE.txt": "/zema-fe/static/js/2.91a31370.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.60c8e77d.js",
     "static/js/2.91a31370.chunk.js",
     "static/css/main.7cecca9d.chunk.css",
-    "static/js/main.22f4afc0.chunk.js"
+    "static/js/main.2fba803d.chunk.js"
   ]
 }

@@ -8,9 +8,6 @@ export default class GoogleForm extends Component {
           src="https://docs.google.com/forms/d/e/1FAIpQLSf2Ar6QObYCl0mea8beh-M0rpMSM-GsP1ReTJG1w2WPIjeQiQ/viewform?embedded=true"
           width="100%"
           height="100%"
-          frameborder="0"
-          marginheight="0"
-          marginwidth="0"
         >
           Loading…
         </iframe>

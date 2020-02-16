@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2e221a43efcbd5621b6d53a3796f4d8",
+    "revision": "ca933cd52986717e5123283052159b9f",
     "url": "/zema-fe/index.html"
   },
   {
-    "revision": "8378987c7b0d16ac7c8f",
-    "url": "/zema-fe/static/css/main.7cecca9d.chunk.css"
+    "revision": "70ef76b0e54a96f915c3",
+    "url": "/zema-fe/static/css/main.fcaad973.chunk.css"
   },
   {
     "revision": "e6a31e8a89a7ef8979b4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zema-fe/static/js/2.3d3b9210.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8378987c7b0d16ac7c8f",
-    "url": "/zema-fe/static/js/main.ecdab8d5.chunk.js"
+    "revision": "70ef76b0e54a96f915c3",
+    "url": "/zema-fe/static/js/main.8c824bcb.chunk.js"
   },
   {
     "revision": "34910eea4de4eaedd80d",

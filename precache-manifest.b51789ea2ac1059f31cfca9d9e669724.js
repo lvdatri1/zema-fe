@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef3e817f0acfcd2fd99f011836cd2dc6",
+    "revision": "a2e221a43efcbd5621b6d53a3796f4d8",
     "url": "/zema-fe/index.html"
   },
   {

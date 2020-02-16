@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lvdatri1/zema/static/css/main.7cecca9d.chunk.css",
-    "main.js": "/lvdatri1/zema/static/js/main.a03b0848.chunk.js",
-    "main.js.map": "/lvdatri1/zema/static/js/main.a03b0848.chunk.js.map",
-    "runtime-main.js": "/lvdatri1/zema/static/js/runtime-main.20138128.js",
-    "runtime-main.js.map": "/lvdatri1/zema/static/js/runtime-main.20138128.js.map",
-    "static/js/2.91a31370.chunk.js": "/lvdatri1/zema/static/js/2.91a31370.chunk.js",
-    "static/js/2.91a31370.chunk.js.map": "/lvdatri1/zema/static/js/2.91a31370.chunk.js.map",
-    "index.html": "/lvdatri1/zema/index.html",
-    "precache-manifest.4ff369664cfd0f87a4d3a7d7ff52ad20.js": "/lvdatri1/zema/precache-manifest.4ff369664cfd0f87a4d3a7d7ff52ad20.js",
-    "service-worker.js": "/lvdatri1/zema/service-worker.js",
-    "static/css/main.7cecca9d.chunk.css.map": "/lvdatri1/zema/static/css/main.7cecca9d.chunk.css.map",
-    "static/js/2.91a31370.chunk.js.LICENSE.txt": "/lvdatri1/zema/static/js/2.91a31370.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lvdatri1/zema/static/media/logo.5d5d9eef.svg"
+    "main.css": "/lvdatri1/zema-fe/static/css/main.7cecca9d.chunk.css",
+    "main.js": "/lvdatri1/zema-fe/static/js/main.20133d41.chunk.js",
+    "main.js.map": "/lvdatri1/zema-fe/static/js/main.20133d41.chunk.js.map",
+    "runtime-main.js": "/lvdatri1/zema-fe/static/js/runtime-main.3690da62.js",
+    "runtime-main.js.map": "/lvdatri1/zema-fe/static/js/runtime-main.3690da62.js.map",
+    "static/js/2.91a31370.chunk.js": "/lvdatri1/zema-fe/static/js/2.91a31370.chunk.js",
+    "static/js/2.91a31370.chunk.js.map": "/lvdatri1/zema-fe/static/js/2.91a31370.chunk.js.map",
+    "index.html": "/lvdatri1/zema-fe/index.html",
+    "precache-manifest.c05b8d81bd8ddba329084faa5f09a53e.js": "/lvdatri1/zema-fe/precache-manifest.c05b8d81bd8ddba329084faa5f09a53e.js",
+    "service-worker.js": "/lvdatri1/zema-fe/service-worker.js",
+    "static/css/main.7cecca9d.chunk.css.map": "/lvdatri1/zema-fe/static/css/main.7cecca9d.chunk.css.map",
+    "static/js/2.91a31370.chunk.js.LICENSE.txt": "/lvdatri1/zema-fe/static/js/2.91a31370.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lvdatri1/zema-fe/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.20138128.js",
+    "static/js/runtime-main.3690da62.js",
     "static/js/2.91a31370.chunk.js",
     "static/css/main.7cecca9d.chunk.css",
-    "static/js/main.a03b0848.chunk.js"
+    "static/js/main.20133d41.chunk.js"
   ]
 }

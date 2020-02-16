@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lvdatri1/zema-fe/static/css/main.7cecca9d.chunk.css",
-    "main.js": "/lvdatri1/zema-fe/static/js/main.20133d41.chunk.js",
-    "main.js.map": "/lvdatri1/zema-fe/static/js/main.20133d41.chunk.js.map",
-    "runtime-main.js": "/lvdatri1/zema-fe/static/js/runtime-main.3690da62.js",
-    "runtime-main.js.map": "/lvdatri1/zema-fe/static/js/runtime-main.3690da62.js.map",
-    "static/js/2.91a31370.chunk.js": "/lvdatri1/zema-fe/static/js/2.91a31370.chunk.js",
-    "static/js/2.91a31370.chunk.js.map": "/lvdatri1/zema-fe/static/js/2.91a31370.chunk.js.map",
-    "index.html": "/lvdatri1/zema-fe/index.html",
-    "precache-manifest.c05b8d81bd8ddba329084faa5f09a53e.js": "/lvdatri1/zema-fe/precache-manifest.c05b8d81bd8ddba329084faa5f09a53e.js",
-    "service-worker.js": "/lvdatri1/zema-fe/service-worker.js",
-    "static/css/main.7cecca9d.chunk.css.map": "/lvdatri1/zema-fe/static/css/main.7cecca9d.chunk.css.map",
-    "static/js/2.91a31370.chunk.js.LICENSE.txt": "/lvdatri1/zema-fe/static/js/2.91a31370.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lvdatri1/zema-fe/static/media/logo.5d5d9eef.svg"
+    "main.css": "/zema-fe/static/css/main.7cecca9d.chunk.css",
+    "main.js": "/zema-fe/static/js/main.22f4afc0.chunk.js",
+    "main.js.map": "/zema-fe/static/js/main.22f4afc0.chunk.js.map",
+    "runtime-main.js": "/zema-fe/static/js/runtime-main.60c8e77d.js",
+    "runtime-main.js.map": "/zema-fe/static/js/runtime-main.60c8e77d.js.map",
+    "static/js/2.91a31370.chunk.js": "/zema-fe/static/js/2.91a31370.chunk.js",
+    "static/js/2.91a31370.chunk.js.map": "/zema-fe/static/js/2.91a31370.chunk.js.map",
+    "index.html": "/zema-fe/index.html",
+    "precache-manifest.1acdd118289b9d2b79ca3acaa1f2ded5.js": "/zema-fe/precache-manifest.1acdd118289b9d2b79ca3acaa1f2ded5.js",
+    "service-worker.js": "/zema-fe/service-worker.js",
+    "static/css/main.7cecca9d.chunk.css.map": "/zema-fe/static/css/main.7cecca9d.chunk.css.map",
+    "static/js/2.91a31370.chunk.js.LICENSE.txt": "/zema-fe/static/js/2.91a31370.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/zema-fe/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3690da62.js",
+    "static/js/runtime-main.60c8e77d.js",
     "static/js/2.91a31370.chunk.js",
     "static/css/main.7cecca9d.chunk.css",
-    "static/js/main.20133d41.chunk.js"
+    "static/js/main.22f4afc0.chunk.js"
   ]
 }
